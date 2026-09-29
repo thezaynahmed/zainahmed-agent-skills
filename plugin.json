@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "zainahmed-agent-skills",
+  "version": "1.0.0",
+  "description": "Public API, documentation, and platform engineering skills for zainahmed.net.",
+  "author": {
+    "name": "Zain Ahmed",
+    "url": "https://zainahmed.net"
+  },
+  "homepage": "https://zainahmed.net/developers",
+  "repository": "https://github.com/thezaynahmed/zainahmed-agent-skills",
+  "license": "MIT",
+  "keywords": ["api", "mcp", "platform-engineering", "developer-tools"]
+}
